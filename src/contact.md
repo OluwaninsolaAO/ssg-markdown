@@ -1,8 +1,7 @@
 # Contact
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem minus iusto eos adipisci harum sint id consectetur suscipit eligendi! Inventore expedita nesciunt non magni soluta odit sequi, temporibus voluptatem unde ullam sed incidunt delectus cumque rerum error quibusdam eos. Ullam explicabo velit voluptas corporis, magnam doloribus laboriosam rerum facere impedit exercitationem commodi magni. Dolores.
-
-```
-def main:
-    pass
-```
+### Websites & social links
+- [LinkedIn](https://www.linkedin.com/in/babasaraki/)
+- [Twitter](https://twitter.com/babasaraky)
+- [GitHub](https://github.com/babasaraki)
+- [ORCID](https://orcid.org/0000-0002-3216-5171)

@@ -6,6 +6,11 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333333;
+  text-align: justify;
 }
 
 header {
@@ -25,11 +30,11 @@ nav {
   flex: 1;
 }
 
-.name a {
+/* .name a {
   font-size: 26px;
   font-weight: 700;
   color: unset;
-}
+} */
 
 nav ul {
   list-style: none;
@@ -58,6 +63,10 @@ a:hover {
   cursor: pointer;
 }
 
+h1 {
+  color: darkcyan;
+}
+
 footer {
   padding: 20px;
   text-align: center;
@@ -71,12 +80,46 @@ hr {
   border-top: 1px solid darkcyan;
 }
 
-main {
+.main {
   max-width: 1140px;
   padding-left: 20px;
   padding-right: 20px;
   margin: 0 auto;
   flex: 1;
+  display: flex;
+}
+
+.main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
+  margin-bottom: -10px;
+}
+
+.sidebar {
+  flex: 1;
+  margin: 20px;
+  text-align: center;
+}
+
+.sidebar img {
+  max-width: 300px;
+}
+
+.sidebar .name-tag {
+  font-size: 3rem;
+  line-height: 90%;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+.sidebar .profession-tag {
+  font-size: 13px;
+  color: gray;
+}
+
+.main-content {
+  flex: 3;
+  min-width: 800px;
+  padding: 20px;
+  background-color: #ffffff;
 }
 
 ::selection {
@@ -113,5 +156,9 @@ main {
     cursor: pointer;
     padding: 10px;
     font-size: 20px;
+  }
+
+  .main {
+    display: block;
   }
 }

@@ -1,31 +1,13 @@
-# About Me - Dr. Umar Ahmad, Scientist
+# Biography
 
-![Portrait of Dr. Umar Ahmad](img/Ahmad_Umar.88a5c36b2e80cf346f0f.png)
+Umar Ahmad is the Head, Department of Anatomy and a member of the Faculty of Basic Medical Sciences in the College of Medical Sciences at Bauchi State University, Nigeria. He is also a Visiting Bioinformatics Scientist with the Molecular Genetics and Infectious Disease (MOGID) Research Laboratory of the Abubakar Tafawa Balewa University, Bauchi, Nigeria, where he works on analysing sequencing data generated from experiments and training scientists how to analyse large-scale genomics datasets obtained from public repositories. His research team is interested in understanding the regulatory pathways that drive tumour recurrence and progression through application of genomics (WGS, WES) and transcriptomics (RNA-Seq, scRNA-Seq, Microarray) data integration. He develops R/Bioconductor packages that could be used to extract cancer RNA-Seq data from cancer publicly available repositories, and analyse diverse cancer types. Thus, his research group works on identifying and elucidating the genetic components of regulatory and signalling pathways that drive cancer recurrence and progression with a primary focus on bladder cancer as a model. This involves the integrated multi-dimensional global profiling of primary tumours, tissue-specific cancer stem cells and in vitro models.
 
-Hello, I'm Dr. Umar Ahmad, a passionate scientist dedicated to exploring the mysteries of the universe through research and experimentation. With a background in astrophysics and a heart full of curiosity, I have spent years unraveling the secrets of the cosmos.
+Dr. Ahmad received his PhD in Genetics (Cancer) at Genetics and Regenerative Medicine Research Centre (GRMRC) of the Universiti Putra Malaysia (UPM) under the mentorship of Professor Dr. Abhi Veerakumarasivam and in close collaboration with Dr. Chan Soon Choy and Professor Khatijah Yusoff at Malaysia Genome Institute (MGI). The impact of Dr. Ahmad’s work has been recognized by several awards and honours, including the Young Research Award, International Graduate Research Fellowship (IGRF), Galaxy Community Fund Fellowship, ISCB Travel Fellowship, Bioconductor Annual Meeting Travel Award, and RStudio Certified Tidyverse Instructor award by RStudio Education Partners in the year 2020.
 
-## Background
+Ahmad has gained an extensive experience in handling large scale genomic data and as such, he primarily uses Unix/Linux and R/Bioconductor to analyse high-throughput sequence data and he is familiar with commonly used bioinformatics applications such as fastqc, MultiQC, readseq, samtools, sra-tools, seqkit, bwa, bwa-mem, bowtie2, FGSEA and DESeq2 Bioconductor packages. In addition to this, he is well familiar with renowned public databases such as ENCODE, TCGA, CCLE and many other bioinformatics databases for mining genomics and transcriptome datasets.
 
-I earned my Ph.D. in Astrophysics from the esteemed Galileo University, where I delved into the complexities of black holes and the behavior of dark matter. My research took me to remote observatories, where I marveled at the dance of celestial bodies and questioned the nature of space and time.
+Moreover, Dr. Ahmad is also a productive investigator as he has published a number of peer-reviewed scientific articles in local and international reputable journals including Nature Scientific Reports (2022), Frontiers in Genetics (2022), Nature Communication (2021), Global Health, Epidemiology and Genomics (2020), BMC Cancer (2019), European Journal of Neuroscience (2019), Disease Markers (2019), BioMed Research International (2015, 2017), among others. Ahmad is also a recipient of numerous awards that includes the most recent; ASAPbio Fellow and Global Variome Fellowship in 2021, Open Life Science Fellowship, Award for establishing BioRTC by the Yobe State Government.
 
-## Research Interests
+Ahmad also works voluntarily in an international team of scholarly professionals at AfricArXiv - the pan-African Open Access portal – towards increased discoverability of African research output. His role involves facilitating manuscript submission moderation and quality assurance as well as representing AfricArXiv at international meetings, events and webinars. He also supports a team that provides mentorship, implements training and community building for the next generation of Nigerian scientists at the Science Communication Hub Nigeria. Inspired by Open Science (OS) movements that focus on making science more open, Ahmad founded Open Science Community Nigeria (OSCN), a scientist-driven nonprofit organisation working to embed open science principles and practices, promote openness, transparency and reproducibility in science. He is also the founder and CEO of BioSeq, a bioinformatics company that translates omics data into informative knowledge by providing quality high-throughput sequencing (NGS) data analysis. Thus, he is a strong advocate for community building that supports the data-intensive biomedical research community and underrepresented groups in STEM fields.
 
-My primary focus lies in the realm of theoretical physics. I'm fascinated by the enigmatic properties of quantum mechanics and the potential implications of string theory. Exploring the fabric of reality at its most fundamental level fuels my desire to push the boundaries of our understanding.
-
-## Contributions to Science
-
-My work has led to several breakthroughs in the field of astrophysics. One of my notable contributions was the development of a novel method to study gravitational waves emitted by merging neutron stars. This discovery shed light on the origins of heavy elements and their role in shaping the cosmos.
-
-## Passion for Education
-
-Alongside my research endeavors, I am passionate about educating the next generation of scientists. I've had the privilege of mentoring young minds, fostering their curiosity, and guiding them on their scientific journeys. Through public lectures and outreach programs, I strive to make the wonders of the universe accessible to all.
-
-## Personal Philosophy
-
-As a scientist, I believe in the power of imagination and the importance of asking questions that challenge conventional wisdom. The pursuit of knowledge is a journey with no final destination; it's about embracing the unknown and daring to explore uncharted territories.
-
-Whether peering through a telescope or scribbling equations on a whiteboard, I am driven by a desire to uncover the secrets of the cosmos and contribute to the collective human understanding of our place in the universe.
-
-Feel free to reach out if you're as passionate about the mysteries of science as I am. Let's embark on this cosmic journey together!
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/) | Follow me on [Twitter](https://twitter.com/) | Email: example@mail.com
+Dr. Ahmad is passionate about the opportunities to collaborate with biologists, scientists, pathologists, data scientists to develop effective strategies to better understand and treat cancers. Dr. Ahmad is occasionally found on Twitter [@babasaraky](https://twitter.com/babasaraky), sharing science and most of the time on [Github](https://github.com/babasaraki), organising codes and repositories.
