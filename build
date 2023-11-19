@@ -1,3 +1,4 @@
 #!/bin/bash
 # builds static site using ssg
-./ssg src . test https://www
+rm -rf {css,img,js,*.html,*.xml,.files}
+./modules/ssg src . test https://www
